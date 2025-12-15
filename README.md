@@ -1,2 +1,2 @@
 # MVP---Natalia-Simoes---Engenharia-de-Dados
-Evidências da construção do MVP.
+O arquivo "Evidências", contém todos os detalhes sobre os dados, construção do MVP e análise dos resultados.
